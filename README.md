@@ -24,12 +24,7 @@ python-multipart
 
 Pasos de instalación:
 
-Clonar el repositorio: git clone https://github.com/pabloargprog2/Henry_Trabajo_1.git
-
-
-Crear un entorno virtual: python -m venv venv
-
-Activar el entorno virtual: Windows: venv\Scripts\activate
+Clonar el repositorio: git clone https://github.com/pabloargprog2/TP.git
 
 
 Instalar las dependencias: pip install -r requirements.txt
